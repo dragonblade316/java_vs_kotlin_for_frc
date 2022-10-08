@@ -25,3 +25,14 @@ kotlin won on the speed of coding but not by much landing on 23 mins and 26 seco
 In a nontimed envirment this would probably go up by a couple minutes since I was coding as fast as posable in kotlin.
 
 I did not use a super consistint style on ether project
+
+nether did considerably better then the other.
+
+java was familier.
+kotlin was a fun expeariment
+
+I like kotlins command and subsystem programing better then java but found robotContainer a bit difficult to understand and modify.
+
+In the real world what I might do is create the project in java and do command and subsystem programing in kotlin.
+
+also you might want to get a habit of putting private before variables bc they are public by default in kotlin.
