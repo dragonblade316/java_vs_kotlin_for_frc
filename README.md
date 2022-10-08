@@ -1,6 +1,6 @@
 # java_vs_kotlin_for_frc
 
-This is an expeariment where I put java ageinst kotlin to see as objectivly as posable which is generally better for frc and if kotlin is worth using as a main or secondary tool. 
+This is an experiment where I put java ageinst kotlin to see as objectivly as posable which is generally better for frc and if kotlin is worth using as a main or secondary tool. 
 
 I did my programing in intellij idea bc i have been using it for other stuff lately and like its intellisence better.
 
